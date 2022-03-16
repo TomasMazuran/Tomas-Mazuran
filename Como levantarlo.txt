@@ -1,0 +1,1 @@
+Para correr la app primero ejecutar la clase llamada Group.java y luego la llamada Client.java
